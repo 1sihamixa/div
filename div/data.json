@@ -1,0 +1,28 @@
+{
+    "marjane": {
+      "Légumes": {              
+        "poids": 10,                                 
+        "massafa": {
+          "moins de 15 km": 3,    
+          "entre 15km et 30km": 5,   
+          "plus de 30km": 12
+        }
+      },
+      "fruits": {            
+        "poids": 4,               
+        "massafa": {
+          "moins de 15 km": 3,    
+          "entre 15km et 30km": 5,   
+          "plus de 30km": 12
+        }
+      },
+        "zitoun": {             
+            "poids": 1,               
+            "massafa": {
+              "moins de 15 km": 3,    
+              "entre 15km et 30km": 5,   
+              "plus de 30km": 12
+          }
+      }
+    }
+}
